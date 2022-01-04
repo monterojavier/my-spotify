@@ -1,2 +1,14 @@
 # my-spotify
-Live Update of your Spotify info
+
+## Start Project
+
+## Tools & Framework
+
+### Frontend
+
+- React
+- Chakra
+
+### Backend
+
+- Flask
