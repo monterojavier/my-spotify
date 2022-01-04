@@ -4,6 +4,8 @@
 
 ## Tools & Framework
 
+- Spotify API
+
 ### Frontend
 
 - React
@@ -12,3 +14,4 @@
 ### Backend
 
 - Flask
+- Spotipy
